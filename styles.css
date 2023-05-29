@@ -1,0 +1,78 @@
+body h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+body h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.article-image{
+    width: 300px;
+    height: 200px;
+    
+}
+
+header{
+    background-color: #2090fe;
+    color: white;
+    padding: 10px;
+  
+}
+
+nav ul{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border-bottom: solid;
+    margin: 5px;
+    
+}
+
+.categories ul li a{
+    color: #2090fe;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    background-color: #2090fe;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-align: center;
+    padding: 2px;
+    
+}
+
+article{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.story-headline-1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.story-headline-2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.story-headline-3{
+    font-family: Arial, Helvetica, sans-serif;
+}
